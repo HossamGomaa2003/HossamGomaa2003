@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00B4DB,100:0083B0&height=200&section=header&text=Hossam%20Gomaa&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Flutter%20Developer%20%7C%20Mobile%20Innovator&descAlignY=55&descColor=ffffff)
+![Header](https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:1a6b3a&height=200&section=header&text=Hossam%20Gomaa&fontSize=65&fontColor=00ff88&animation=fadeIn&fontAlignY=40&desc=Flutter%20Developer%20%7C%20Mobile%20Innovator&descAlignY=62&descColor=a8ffcb&descSize=22)
 
 </div>
 
@@ -149,7 +149,7 @@ I'm always open to exciting projects and new opportunities!
 
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0083B0,100:00B4DB&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:1a6b3a&height=80&section=footer)
 
 ⭐ **If you find my work interesting, don't forget to star my repos!** ⭐
 
